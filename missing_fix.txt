@@ -1,0 +1,89 @@
+"missing": [
+    "bg_center",是1.1-p档下面的dashboard_n的"圆形 20"。
+    "bg_cricle",是1.1-p档下面的dashboard_n的"减去顶层 6"。
+
+    "bg_halo_0",是1.1-p档下面的dashboard_n的"圆形 24"。
+    "bg_halo_1",是1.1-p档下面的dashboard_n的"圆形 24"。
+    "bg_halo_2",是1.1-p档下面的dashboard_n的"圆形 24"。
+    "box",不动。
+    "box_power_level_100_",是2.3-互联下面的"容器 30"。
+
+    "box_power_level_10_",是2.3-互联下面的"容器 30"。
+
+    "box_power_level_25_",是2.3-互联下面的"容器 30"。
+
+    "box_power_level_50_",是2.3-互联下面的"容器 30"。
+
+    "box_power_level_75_",是2.3-互联下面的"容器 30"。
+
+    "call_huang",不动。
+    "call_pick",不动。
+    "dock_settings_n",不动。
+    "dock_settings_p",不动。
+    "dog",不动。
+    "drv_mode_0", 不动。
+    "drv_mode_1",不动。
+    "drv_mode_2",不动。
+    "icon_WiFi",不动。
+    "icon_call",是4.1-电话下面的"icon_incoming call"。
+
+    "icon_media_cover_n",不动。
+    "icon_outgoing_call",是4.1-电话下面的"icon_incoming call"。
+
+    "link_elecRect_head",不动。
+    "linkgear_d_n",是2.3-互联下面的"interconnection_bg"下面的"容器 77"下面的"gear_d_n"。
+
+    "linkgear_d_p",是2.3-互联下面的"interconnection_bg"下面的"容器 77"下面的"gear_d_n"。
+    "linkgear_n_n",是2.3-互联下面的"interconnection_bg"下面的"容器 77"下面的"gear_n_n"。
+    "linkgear_n_p",是2.3-互联下面的"interconnection_bg"下面的"容器 77"下面的"gear_n_n"。
+    "linkgear_r_n",是2.3-互联下面的"interconnection_bg"下面的"容器 77"下面的"gear_r_n"。
+    "linkgear_r_p",是2.3-互联下面的"interconnection_bg"下面的"容器 77"下面的"gear_r_n"。
+    "music_bar",是3.3-音乐展开 下面的"组件 7"下面的"progress_n"。
+    "music_bar_bg",是3.3-音乐展开 下面的"组件 7"下面的"progress_n"。
+    "music_bar_bg_n",是3.3-音乐展开 下面的"组件 7"下面的"progress_n"。
+    "setting_bg",是"5.3-连接手机"下面的"矩形 29"。
+    "setting_bluebooth_close",是"5.3-连接手机"下面的"组 26"下面的"矩形 65"。
+    "setting_bluebooth_open",是"5.3-连接手机"下面的"组 26"下面的"矩形 65"。
+
+    "setting_line",是"5.3-连接手机"下面的"容器 81"下面的"直线 11"。
+    "setting_menu_selec", 不动。
+    "setting_page_down_n",是"5.3-连接手机"下面的"容器 74"。
+
+    "setting_page_down_p",是"5.3-连接手机"下面的"容器 74"。
+
+    "setting_page_up_n",是"5.3-连接手机"下面的"容器 71"。
+    "setting_page_up_p",是"5.3-连接手机"下面的"容器 71"。
+    "setting_selected",不动。
+    "top_auto_high_beams_n",不动。
+
+    "top_brake_failure_n",不动。
+
+    "top_charge_n",不动。
+
+    "top_ecu_n",不动。
+
+    "top_left",不动。
+
+    "top_left_n",不动。
+
+    "top_lock_n",不动。
+
+    "top_low_beam_n",不动。
+
+    "top_motor_failure_n",不动。
+
+    "top_ready",不动。
+
+    "top_right",不动。
+
+    "top_right_n",不动。
+
+    "top_tcs_n",不动。
+
+    "top_tire_pressure_n",不动。
+
+    "unit_km_h",不动。
+
+    "unit_mph",不动。
+
+  ]
