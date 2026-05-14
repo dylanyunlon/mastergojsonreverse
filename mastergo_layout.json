@@ -1,0 +1,1339 @@
+{
+  "5.1-胎压": {
+    "frame_id": "1:0578",
+    "frame_origin": {
+      "x": -2339,
+      "y": -3
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 23,
+    "elements": [
+      {
+        "id": "1:2713",
+        "name": "wallpaper",
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 600
+      },
+      {
+        "id": "1:2713/1:2437",
+        "name": "矩形 24",
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 600
+      },
+      {
+        "id": "1:2704",
+        "name": "胎压正常",
+        "left": 887,
+        "top": 185,
+        "width": 52,
+        "height": 52
+      },
+      {
+        "id": "1:2704/1:2419",
+        "name": "路径",
+        "left": 894.85,
+        "top": 192.67,
+        "width": 36.5,
+        "height": 36.58
+      },
+      {
+        "id": "1:0595",
+        "name": "矩形 31",
+        "left": 879,
+        "top": 189,
+        "width": 230,
+        "height": 10
+      },
+      {
+        "id": "1:0581",
+        "name": "矩形 32",
+        "left": 879,
+        "top": 189,
+        "width": 135,
+        "height": 10
+      },
+      {
+        "id": "1:0582",
+        "name": "组 13",
+        "left": 887,
+        "top": 242,
+        "width": 107,
+        "height": 52
+      },
+      {
+        "id": "1:0590",
+        "name": "2.2",
+        "left": 887,
+        "top": 242,
+        "width": 52,
+        "height": 52
+      },
+      {
+        "id": "1:0583",
+        "name": "bar",
+        "left": 949,
+        "top": 251,
+        "width": 45,
+        "height": 41
+      },
+      {
+        "id": "1:0598",
+        "name": "组 14",
+        "left": 887,
+        "top": 378,
+        "width": 80,
+        "height": 52
+      },
+      {
+        "id": "1:0603",
+        "name": "23",
+        "left": 887,
+        "top": 378,
+        "width": 42,
+        "height": 52
+      },
+      {
+        "id": "1:0599",
+        "name": "℃",
+        "left": 939,
+        "top": 388,
+        "width": 28,
+        "height": 41
+      },
+      {
+        "id": "1:2520",
+        "name": "胎压异常",
+        "left": 336,
+        "top": 181,
+        "width": 52,
+        "height": 52
+      },
+      {
+        "id": "1:0640",
+        "name": "胎压监测",
+        "left": 109,
+        "top": 130,
+        "width": 144,
+        "height": 52
+      },
+      {
+        "id": "1:0650",
+        "name": "连接手机",
+        "left": 109,
+        "top": 274,
+        "width": 144,
+        "height": 52
+      },
+      {
+        "id": "1:0644",
+        "name": "骑行能耗",
+        "left": 109,
+        "top": 202,
+        "width": 144,
+        "height": 52
+      },
+      {
+        "id": "1:0607",
+        "name": "语言",
+        "left": 109,
+        "top": 346,
+        "width": 72,
+        "height": 52
+      },
+      {
+        "id": "1:0654",
+        "name": "背光亮度",
+        "left": 109,
+        "top": 418,
+        "width": 144,
+        "height": 52
+      },
+      {
+        "id": "1:3731",
+        "name": "top",
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 60
+      },
+      {
+        "id": "1:2848",
+        "name": "底",
+        "left": 0,
+        "top": 548,
+        "width": 1024,
+        "height": 52
+      },
+      {
+        "id": "2:03359",
+        "name": "dock",
+        "left": 0,
+        "top": 131,
+        "width": 52,
+        "height": 337
+      },
+      {
+        "id": "2:23248",
+        "name": "setting_tire pressure_bg",
+        "left": 474,
+        "top": 200,
+        "width": 350,
+        "height": 235
+      },
+      {
+        "id": "2:23247",
+        "name": "setting_tire pressure_left",
+        "left": 474,
+        "top": 200,
+        "width": 350,
+        "height": 235
+      }
+    ]
+  },
+  "wallpaper": {
+    "frame_id": "1:2713",
+    "frame_origin": {
+      "x": -2339,
+      "y": -3
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 23,
+    "elements": [
+      {
+        "id": "1:0578",
+        "name": "5.1-胎压",
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 600
+      },
+      {
+        "id": "1:2713/1:2437",
+        "name": "矩形 24",
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 600
+      },
+      {
+        "id": "1:2704",
+        "name": "胎压正常",
+        "left": 887,
+        "top": 185,
+        "width": 52,
+        "height": 52
+      },
+      {
+        "id": "1:2704/1:2419",
+        "name": "路径",
+        "left": 894.85,
+        "top": 192.67,
+        "width": 36.5,
+        "height": 36.58
+      },
+      {
+        "id": "1:0595",
+        "name": "矩形 31",
+        "left": 879,
+        "top": 189,
+        "width": 230,
+        "height": 10
+      },
+      {
+        "id": "1:0581",
+        "name": "矩形 32",
+        "left": 879,
+        "top": 189,
+        "width": 135,
+        "height": 10
+      },
+      {
+        "id": "1:0582",
+        "name": "组 13",
+        "left": 887,
+        "top": 242,
+        "width": 107,
+        "height": 52
+      },
+      {
+        "id": "1:0590",
+        "name": "2.2",
+        "left": 887,
+        "top": 242,
+        "width": 52,
+        "height": 52
+      },
+      {
+        "id": "1:0583",
+        "name": "bar",
+        "left": 949,
+        "top": 251,
+        "width": 45,
+        "height": 41
+      },
+      {
+        "id": "1:0598",
+        "name": "组 14",
+        "left": 887,
+        "top": 378,
+        "width": 80,
+        "height": 52
+      },
+      {
+        "id": "1:0603",
+        "name": "23",
+        "left": 887,
+        "top": 378,
+        "width": 42,
+        "height": 52
+      },
+      {
+        "id": "1:0599",
+        "name": "℃",
+        "left": 939,
+        "top": 388,
+        "width": 28,
+        "height": 41
+      },
+      {
+        "id": "1:2520",
+        "name": "胎压异常",
+        "left": 336,
+        "top": 181,
+        "width": 52,
+        "height": 52
+      },
+      {
+        "id": "1:0640",
+        "name": "胎压监测",
+        "left": 109,
+        "top": 130,
+        "width": 144,
+        "height": 52
+      },
+      {
+        "id": "1:0650",
+        "name": "连接手机",
+        "left": 109,
+        "top": 274,
+        "width": 144,
+        "height": 52
+      },
+      {
+        "id": "1:0644",
+        "name": "骑行能耗",
+        "left": 109,
+        "top": 202,
+        "width": 144,
+        "height": 52
+      },
+      {
+        "id": "1:0607",
+        "name": "语言",
+        "left": 109,
+        "top": 346,
+        "width": 72,
+        "height": 52
+      },
+      {
+        "id": "1:0654",
+        "name": "背光亮度",
+        "left": 109,
+        "top": 418,
+        "width": 144,
+        "height": 52
+      },
+      {
+        "id": "1:3731",
+        "name": "top",
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 60
+      },
+      {
+        "id": "1:2848",
+        "name": "底",
+        "left": 0,
+        "top": 548,
+        "width": 1024,
+        "height": 52
+      },
+      {
+        "id": "2:03359",
+        "name": "dock",
+        "left": 0,
+        "top": 131,
+        "width": 52,
+        "height": 337
+      },
+      {
+        "id": "2:23248",
+        "name": "setting_tire pressure_bg",
+        "left": 474,
+        "top": 200,
+        "width": 350,
+        "height": 235
+      },
+      {
+        "id": "2:23247",
+        "name": "setting_tire pressure_left",
+        "left": 474,
+        "top": 200,
+        "width": 350,
+        "height": 235
+      }
+    ]
+  },
+  "5.2-骑行能耗": {
+    "frame_id": "2:04122",
+    "frame_origin": {
+      "x": -1280,
+      "y": -3
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 8,
+    "elements": [
+      {
+        "id": "2:04261",
+        "name": "矩形 29",
+        "left": 324,
+        "top": 100,
+        "width": 700,
+        "height": 400
+      },
+      {
+        "id": "2:04397",
+        "name": "组 12",
+        "left": 359,
+        "top": 166,
+        "width": 514,
+        "height": 232.34
+      },
+      {
+        "id": "2:04390",
+        "name": "上次骑行电耗",
+        "left": 359,
+        "top": 413,
+        "width": 144,
+        "height": 35
+      },
+      {
+        "id": "2:04380",
+        "name": "单次电耗",
+        "left": 561,
+        "top": 413,
+        "width": 96,
+        "height": 35
+      },
+      {
+        "id": "2:04366",
+        "name": "平均电耗",
+        "left": 743,
+        "top": 413,
+        "width": 96,
+        "height": 35
+      },
+      {
+        "id": "2:04370",
+        "name": "133.0Wh",
+        "left": 381,
+        "top": 450,
+        "width": 96,
+        "height": 35
+      },
+      {
+        "id": "2:04376",
+        "name": "33.0Wh",
+        "left": 567,
+        "top": 450,
+        "width": 83,
+        "height": 35
+      },
+      {
+        "id": "2:04362",
+        "name": "33.0Wh/km",
+        "left": 726,
+        "top": 450,
+        "width": 128,
+        "height": 35
+      }
+    ]
+  },
+  "5.3-连接手机": {
+    "frame_id": "2:18311",
+    "frame_origin": {
+      "x": -221,
+      "y": -3
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 6,
+    "elements": [
+      {
+        "id": "2:18373",
+        "name": "矩形 29",
+        "left": 324,
+        "top": 100,
+        "width": 700,
+        "height": 400
+      },
+      {
+        "id": "2:18682",
+        "name": "蓝牙",
+        "left": 414,
+        "top": 129,
+        "width": 56,
+        "height": 41
+      },
+      {
+        "id": "2:18728",
+        "name": "iphone15",
+        "left": 414,
+        "top": 236,
+        "width": 117,
+        "height": 33
+      },
+      {
+        "id": "2:18723",
+        "name": "已连接",
+        "left": 800,
+        "top": 231,
+        "width": 84,
+        "height": 41
+      },
+      {
+        "id": "2:18766",
+        "name": "iphone16",
+        "left": 414,
+        "top": 312,
+        "width": 117,
+        "height": 33
+      },
+      {
+        "id": "2:18770",
+        "name": "未连接",
+        "left": 800,
+        "top": 307,
+        "width": 84,
+        "height": 41
+      }
+    ]
+  },
+  "5.4-语言": {
+    "frame_id": "2:18825",
+    "frame_origin": {
+      "x": 838,
+      "y": -3
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 4,
+    "elements": [
+      {
+        "id": "2:18887",
+        "name": "矩形 29",
+        "left": 324,
+        "top": 100,
+        "width": 700,
+        "height": 400
+      },
+      {
+        "id": "2:18888",
+        "name": "语言设置",
+        "left": 593,
+        "top": 129,
+        "width": 112,
+        "height": 41
+      },
+      {
+        "id": "2:18902",
+        "name": "中 文",
+        "left": 607,
+        "top": 231,
+        "width": 84,
+        "height": 41
+      },
+      {
+        "id": "2:19074",
+        "name": "English",
+        "left": 546,
+        "top": 307,
+        "width": 206,
+        "height": 41
+      }
+    ]
+  },
+  "5.5-背光亮度": {
+    "frame_id": "2:19139",
+    "frame_origin": {
+      "x": 1900,
+      "y": -3
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 0,
+    "elements": []
+  },
+  "5.6-单位设置": {
+    "frame_id": "2:19292",
+    "frame_origin": {
+      "x": 2962,
+      "y": -3
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 3,
+    "elements": [
+      {
+        "id": "2:19355",
+        "name": "单位设置",
+        "left": 593,
+        "top": 129,
+        "width": 112,
+        "height": 41
+      },
+      {
+        "id": "2:19362",
+        "name": "公 制",
+        "left": 607,
+        "top": 231,
+        "width": 84,
+        "height": 41
+      },
+      {
+        "id": "2:19367",
+        "name": "英 制",
+        "left": 546,
+        "top": 307,
+        "width": 206,
+        "height": 41
+      }
+    ]
+  },
+  "5.7-时钟设置": {
+    "frame_id": "2:19493",
+    "frame_origin": {
+      "x": 4024,
+      "y": -3
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 2,
+    "elements": [
+      {
+        "id": "2:19556",
+        "name": "时钟设置",
+        "left": 593,
+        "top": 129,
+        "width": 112,
+        "height": 41
+      },
+      {
+        "id": "2:19624",
+        "name": "15 : 04",
+        "left": 481.5,
+        "top": 269,
+        "width": 335,
+        "height": 129
+      }
+    ]
+  },
+  "5.8-显示设置": {
+    "frame_id": "2:20011",
+    "frame_origin": {
+      "x": 5083,
+      "y": -3
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 3,
+    "elements": [
+      {
+        "id": "2:20081",
+        "name": "日 间",
+        "left": 607,
+        "top": 231,
+        "width": 84,
+        "height": 41
+      },
+      {
+        "id": "2:20086",
+        "name": "夜 间",
+        "left": 546,
+        "top": 307,
+        "width": 206,
+        "height": 41
+      },
+      {
+        "id": "2:20170",
+        "name": "自 动",
+        "left": 546,
+        "top": 383,
+        "width": 206,
+        "height": 41
+      }
+    ]
+  },
+  "5.9-设备信息": {
+    "frame_id": "2:20191",
+    "frame_origin": {
+      "x": 6145,
+      "y": -3
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 4,
+    "elements": [
+      {
+        "id": "2:20364",
+        "name": "序列号",
+        "left": 376,
+        "top": 156,
+        "width": 96,
+        "height": 46
+      },
+      {
+        "id": "2:20352",
+        "name": "版本号",
+        "left": 376,
+        "top": 329,
+        "width": 96,
+        "height": 46
+      },
+      {
+        "id": "2:20360",
+        "name": "WDW454A56WD4A56",
+        "left": 376,
+        "top": 212,
+        "width": 310,
+        "height": 46
+      },
+      {
+        "id": "2:20356",
+        "name": "V1.1",
+        "left": 376,
+        "top": 385,
+        "width": 63,
+        "height": 46
+      }
+    ]
+  },
+  "2.3-互联": {
+    "frame_id": "1:1745",
+    "frame_origin": {
+      "x": -221,
+      "y": -1994
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 2,
+    "elements": [
+      {
+        "id": "1:1753",
+        "name": "km/h",
+        "left": 906,
+        "top": 65,
+        "width": 83,
+        "height": 41
+      },
+      {
+        "id": "1:1747",
+        "name": "100 km",
+        "left": 891,
+        "top": 174,
+        "width": 102,
+        "height": 34
+      }
+    ]
+  },
+  "3.3-音乐展开": {
+    "frame_id": "2:02139",
+    "frame_origin": {
+      "x": -221,
+      "y": -1335
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 2,
+    "elements": [
+      {
+        "id": "2:02692",
+        "name": "Starboy",
+        "left": 251,
+        "top": 249,
+        "width": 119,
+        "height": 46
+      },
+      {
+        "id": "2:02688",
+        "name": "The Weeknd",
+        "left": 234,
+        "top": 299,
+        "width": 153,
+        "height": 38
+      }
+    ]
+  },
+  "1.2-常规模式": {
+    "frame_id": "1:1122",
+    "frame_origin": {
+      "x": -1280,
+      "y": -2705
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 0,
+    "elements": []
+  },
+  "1.3-运动模式": {
+    "frame_id": "2:2391",
+    "frame_origin": {
+      "x": -221,
+      "y": -2705
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 0,
+    "elements": []
+  },
+  "1.4-经济模式": {
+    "frame_id": "2:2522",
+    "frame_origin": {
+      "x": 838,
+      "y": -2705
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 0,
+    "elements": []
+  },
+  "2.1-互联扫码": {
+    "frame_id": "2:2909",
+    "frame_origin": {
+      "x": -2339,
+      "y": -1994
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 6,
+    "elements": [
+      {
+        "id": "2:3057",
+        "name": "image",
+        "left": 108,
+        "top": 209,
+        "width": 120,
+        "height": 120
+      },
+      {
+        "id": "2:3053",
+        "name": "扫码连接",
+        "left": 104,
+        "top": 349,
+        "width": 128,
+        "height": 46
+      },
+      {
+        "id": "2:2972",
+        "name": "仪表e",
+        "left": 303,
+        "top": 91,
+        "width": 418,
+        "height": 418
+      },
+      {
+        "id": "2:2972/1:2698",
+        "name": "dashboard_progress_e",
+        "left": 303,
+        "top": 91,
+        "width": 418,
+        "height": 418
+      },
+      {
+        "id": "2:2921",
+        "name": "功率",
+        "left": 688,
+        "top": 154,
+        "width": 336,
+        "height": 300
+      },
+      {
+        "id": "2:2913",
+        "name": "dock",
+        "left": 0,
+        "top": 132,
+        "width": 52,
+        "height": 337
+      }
+    ]
+  },
+  "2.2-互联简易信息": {
+    "frame_id": "2:3068",
+    "frame_origin": {
+      "x": -1280,
+      "y": -1994
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 3,
+    "elements": [
+      {
+        "id": "2:3479",
+        "name": "20",
+        "left": 101,
+        "top": 281,
+        "width": 87,
+        "height": 110
+      },
+      {
+        "id": "2:3485",
+        "name": "m",
+        "left": 205,
+        "top": 332,
+        "width": 31,
+        "height": 46
+      },
+      {
+        "id": "2:3475",
+        "name": "右转",
+        "left": 142,
+        "top": 391,
+        "width": 52,
+        "height": 38
+      }
+    ]
+  },
+  "3.1-音乐未连接": {
+    "frame_id": "2:01752",
+    "frame_origin": {
+      "x": -2339,
+      "y": -1335
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 2,
+    "elements": [
+      {
+        "id": "2:01917",
+        "name": "未连接",
+        "left": 120,
+        "top": 315,
+        "width": 96,
+        "height": 46
+      },
+      {
+        "id": "2:01913",
+        "name": "--",
+        "left": 159,
+        "top": 365,
+        "width": 19,
+        "height": 38
+      }
+    ]
+  },
+  "3.2-音乐": {
+    "frame_id": "2:01952",
+    "frame_origin": {
+      "x": -1280,
+      "y": -1335
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 2,
+    "elements": [
+      {
+        "id": "2:02029",
+        "name": "Starboy",
+        "left": 109,
+        "top": 315,
+        "width": 119,
+        "height": 46
+      },
+      {
+        "id": "2:02104",
+        "name": "The Weeknd",
+        "left": 92,
+        "top": 365,
+        "width": 153,
+        "height": 38
+      }
+    ]
+  },
+  "4.1-电话": {
+    "frame_id": "2:02803",
+    "frame_origin": {
+      "x": -2339,
+      "y": -695
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 3,
+    "elements": [
+      {
+        "id": "2:02994",
+        "name": "137 9611 2548",
+        "left": 67,
+        "top": 390,
+        "width": 202,
+        "height": 43
+      },
+      {
+        "id": "2:02950",
+        "name": "长按挂断",
+        "left": 116,
+        "top": 197,
+        "width": 104,
+        "height": 38
+      },
+      {
+        "id": "2:02954",
+        "name": "短按确认键接听",
+        "left": 77,
+        "top": 159,
+        "width": 182,
+        "height": 38
+      }
+    ]
+  },
+  "4.2-通话中": {
+    "frame_id": "2:03013",
+    "frame_origin": {
+      "x": -1280,
+      "y": -695
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 2,
+    "elements": [
+      {
+        "id": "2:03017",
+        "name": "137 9611 2548",
+        "left": 67,
+        "top": 390,
+        "width": 202,
+        "height": 43
+      },
+      {
+        "id": "2:03092",
+        "name": "长按挂断",
+        "left": 116,
+        "top": 197,
+        "width": 104,
+        "height": 38
+      }
+    ]
+  },
+  "1.1-p档": {
+    "frame_id": "1:1932",
+    "frame_origin": {
+      "x": -2339,
+      "y": -2705
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 11,
+    "elements": [
+      {
+        "id": "1:2667",
+        "name": "icon_riding distance",
+        "left": 133,
+        "top": 315,
+        "width": 52,
+        "height": 52
+      },
+      {
+        "id": "1:2663",
+        "name": "icon_riding time",
+        "left": 133,
+        "top": 194,
+        "width": 52,
+        "height": 52
+      },
+      {
+        "id": "1:1941",
+        "name": "0h 8min",
+        "left": 116,
+        "top": 256,
+        "width": 87,
+        "height": 28
+      },
+      {
+        "id": "1:1945",
+        "name": "0.0km",
+        "left": 125,
+        "top": 377,
+        "width": 68,
+        "height": 28
+      },
+      {
+        "id": "1:9497",
+        "name": "仪表n",
+        "left": 303,
+        "top": 91,
+        "width": 418,
+        "height": 418
+      },
+      {
+        "id": "1:9498",
+        "name": "dashboard_n",
+        "left": 303,
+        "top": 91,
+        "width": 418,
+        "height": 418
+      },
+      {
+        "id": "1:9562",
+        "name": "speed_p",
+        "left": 468,
+        "top": 236,
+        "width": 88,
+        "height": 128
+      },
+      {
+        "id": "1:3467",
+        "name": "功率",
+        "left": 688,
+        "top": 154,
+        "width": 336,
+        "height": 300
+      },
+      {
+        "id": "1:3298",
+        "name": "底",
+        "left": 0,
+        "top": 548,
+        "width": 1024,
+        "height": 52
+      },
+      {
+        "id": "1:3857",
+        "name": "top",
+        "left": 0,
+        "top": 0,
+        "width": 1024,
+        "height": 60
+      },
+      {
+        "id": "1:3723",
+        "name": "dock",
+        "left": 0,
+        "top": 132,
+        "width": 52,
+        "height": 337
+      }
+    ]
+  },
+  "6.1-DVR主界面": {
+    "frame_id": "2:43839",
+    "frame_origin": {
+      "x": -2339,
+      "y": 708
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 1,
+    "elements": [
+      {
+        "id": "2:03744",
+        "name": "DVR",
+        "left": 347,
+        "top": 59,
+        "width": 382,
+        "height": 382
+      }
+    ]
+  },
+  "6.2-前后摄选择界面": {
+    "frame_id": "2:45469",
+    "frame_origin": {
+      "x": -1280,
+      "y": 708
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 2,
+    "elements": [
+      {
+        "id": "2:50831",
+        "name": "前视",
+        "left": 252,
+        "top": 519,
+        "width": 84,
+        "height": 61
+      },
+      {
+        "id": "2:50827",
+        "name": "后视",
+        "left": 740,
+        "top": 519,
+        "width": 84,
+        "height": 61
+      }
+    ]
+  },
+  "6.3-1视频列表": {
+    "frame_id": "2:45569",
+    "frame_origin": {
+      "x": -221,
+      "y": 708
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 0,
+    "elements": []
+  },
+  "6.3-2视频列表弹窗": {
+    "frame_id": "2:46926",
+    "frame_origin": {
+      "x": 838,
+      "y": 708
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 0,
+    "elements": []
+  },
+  "6.4照片列表": {
+    "frame_id": "2:51182",
+    "frame_origin": {
+      "x": 1900,
+      "y": 708
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 0,
+    "elements": []
+  },
+  "6.5DVR设置": {
+    "frame_id": "2:47311",
+    "frame_origin": {
+      "x": 2962,
+      "y": 708
+    },
+    "frame_size": {
+      "width": 1024,
+      "height": 600
+    },
+    "element_count": 7,
+    "elements": [
+      {
+        "id": "2:48248",
+        "name": "摄像头",
+        "left": 163,
+        "top": 128,
+        "width": 90,
+        "height": 43
+      },
+      {
+        "id": "2:48657",
+        "name": "循环时间",
+        "left": 148,
+        "top": 228,
+        "width": 120,
+        "height": 43
+      },
+      {
+        "id": "2:48684",
+        "name": "格式化",
+        "left": 163,
+        "top": 328,
+        "width": 90,
+        "height": 43
+      },
+      {
+        "id": "2:48711",
+        "name": "关于",
+        "left": 178,
+        "top": 428,
+        "width": 60,
+        "height": 43
+      },
+      {
+        "id": "2:48393",
+        "name": "开",
+        "left": 461,
+        "top": 128,
+        "width": 30,
+        "height": 43
+      },
+      {
+        "id": "2:48662",
+        "name": "1 min",
+        "left": 436,
+        "top": 228,
+        "width": 80,
+        "height": 43
+      },
+      {
+        "id": "2:48689",
+        "name": "快速格式化",
+        "left": 598,
+        "top": 328,
+        "width": 150,
+        "height": 43
+      }
+    ]
+  }
+}
